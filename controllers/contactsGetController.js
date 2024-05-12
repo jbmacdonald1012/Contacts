@@ -8,7 +8,7 @@ const GetAllContacts = async (request, response) => {
     .find();
 
   allContactsResult.toArray().then((allContactsList) => {
-    response.setHeader('Content-Type', 'application.json');
+    response.setHeader('Content-Type', 'application/json');
     response.status(200).json(allContactsList);
   });
 };
