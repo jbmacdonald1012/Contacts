@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Esteissy",
+    "lastName": "Macdonald",
+    "email": "mstvi12@gmail.com",
+    "favoriteColor": "Purple",
+    "birthday": "5/3/1989"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Sampson",
+    "email": "sampsonjordie@test.com",
+    "favoriteColor": "Blue",
+    "birthday": "3/18/1995"
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Williams",
+    "email": "bwill351@test.com",
+    "favoriteColor": "Yellow",
+    "birthday": "9/16/1972"
+  }
+]
